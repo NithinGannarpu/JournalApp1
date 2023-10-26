@@ -1,0 +1,14 @@
+/Users/digital-3/Projects/JournalApp/JournalApp/bin/Debug/net7.0/JournalApp
+/Users/digital-3/Projects/JournalApp/JournalApp/bin/Debug/net7.0/JournalApp.deps.json
+/Users/digital-3/Projects/JournalApp/JournalApp/bin/Debug/net7.0/JournalApp.runtimeconfig.json
+/Users/digital-3/Projects/JournalApp/JournalApp/bin/Debug/net7.0/JournalApp.dll
+/Users/digital-3/Projects/JournalApp/JournalApp/bin/Debug/net7.0/JournalApp.pdb
+/Users/digital-3/Projects/JournalApp/JournalApp/obj/Debug/net7.0/JournalApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/digital-3/Projects/JournalApp/JournalApp/obj/Debug/net7.0/JournalApp.AssemblyInfoInputs.cache
+/Users/digital-3/Projects/JournalApp/JournalApp/obj/Debug/net7.0/JournalApp.AssemblyInfo.cs
+/Users/digital-3/Projects/JournalApp/JournalApp/obj/Debug/net7.0/JournalApp.csproj.CoreCompileInputs.cache
+/Users/digital-3/Projects/JournalApp/JournalApp/obj/Debug/net7.0/JournalApp.dll
+/Users/digital-3/Projects/JournalApp/JournalApp/obj/Debug/net7.0/refint/JournalApp.dll
+/Users/digital-3/Projects/JournalApp/JournalApp/obj/Debug/net7.0/JournalApp.pdb
+/Users/digital-3/Projects/JournalApp/JournalApp/obj/Debug/net7.0/JournalApp.genruntimeconfig.cache
+/Users/digital-3/Projects/JournalApp/JournalApp/obj/Debug/net7.0/ref/JournalApp.dll
