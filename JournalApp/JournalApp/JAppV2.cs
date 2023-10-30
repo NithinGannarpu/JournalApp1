@@ -110,7 +110,7 @@ namespace JournalApp
                 Clear();
                 WriteLine("\nUsername: ");
                 string uname = ReadLine();
-                string connectionString = "Server=localhost;Database=album;User ID=root;Password=Howdy_bitch@2002;";
+                string connectionString = "Server=localhost;Database=dbname;UserID= your_id;password=mysql_password;";
                 MySqlConnection conn = new MySqlConnection(connectionString);
 
                 try
@@ -180,7 +180,7 @@ namespace JournalApp
             WriteLine("Password: ");
             string pas = ReadLine();
 
-            string connectionString = "Server=localhost;Database=album;User ID=root;Password=Howdy_bitch@2002;";
+            string connectionString = "Server=localhost;Database=dbname;UserID= your_id;password=mysql_password;";
             MySqlConnection conn = new MySqlConnection(connectionString);
 
             try
